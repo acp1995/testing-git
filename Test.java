@@ -1,6 +1,6 @@
 class A{
 	void disp(){
-	        System.out.println("hello");
+	        System.out.println("hello world");
 	}
 }
 
